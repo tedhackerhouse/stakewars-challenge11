@@ -6,9 +6,9 @@ Using Metapool’s stNEAR, NEAR can lower the circulating supply of the token by
 
 We created a structure based on the Liquidity Mining DeFi model that allows the player to take an interest in other players’ interest farming operations in addition to his interest farming operations and added a gaming element.
 
-[Game Structure]
+**[Game Structure]**  
 The Liquidity Miner will have his area, or land while depositing LPs. This land is a space for interest farming, and any interest that comes out of this space can be harvested. However, at the same time, they have the chance to attack adjacent land (the area where another Liquidity Miner has deposited LP). They can take away the interest generated in the area with a random win rate.
-Thus, attacks and defenses can occur between Liquidity Miners, and the probability of such attacks and defenses occurring is random, but this probability can be adjusted through items. The items can be purchased in $NEAR. And the $NEAR used to buy these items will be burned. 
+Thus, attacks and defenses can occur between Liquidity Miners, and the probability of such attacks and defenses occurring is random, but this probability can be adjusted through items. The items can be purchased in $NEAR. And **the $NEAR used to buy these items will be burned.** 
 
 
 This structure allows users who want to maximize their interest to achieve it by increasing the army during the game. These activities will trigger the purchase and burning of $NEAR. Hence, this allows for a sustainable APR model on $NEAR. 
